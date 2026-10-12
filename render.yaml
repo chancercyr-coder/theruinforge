@@ -14,7 +14,7 @@ services:
       - key: DISCORD_CLIENT_SECRET
         sync: false
       - key: DISCORD_REDIRECT_URI
-        sync: false
+        value: https://theruinforge-1.onrender.com/auth/discord/callback
       - key: DISCORD_GUILD_ID
         sync: false
       - key: DISCORD_BOT_TOKEN

@@ -120,7 +120,7 @@ const INDEX_HTML = [
   "",
   "<div class=\"topbar\"><div class=\"shell nav\">",
   "<a class=\"brand\" href=\"#\"><span class=\"brandmark\">R</span><span>TheRuinForge<small>ROBLOX SCRIPT FORGE</small></span></a>",
-  "<nav class=\"navlinks\"><a href=\"#library\">Script library</a><a href=\"#builder\">Generator</a><span class=\"navtag\">21 SCRIPT SYSTEMS</span></nav>",
+  "<nav class=\"navlinks\"><a href=\"#library\">Script library</a><a href=\"#builder\">Generator</a><button class=\"navtag\" id=\"tutorialOpen\" type=\"button\">Quick start</button></nav>",
   "</div></div>",
   "<main class=\"shell\">",
   "<section class=\"hero\">",
